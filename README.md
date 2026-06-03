@@ -31,7 +31,5 @@ The aim of the project is to provide a practical Haskell implementation of the t
 ```text
 StarHS/
 ├── src/          # Main Haskell source files
-├── app/          # Executable or example program
-├── test/         # Tests, if included
-├── README.md
+├── examples/          # Contains Conway's Game of Life implementation using Star
 └── starhs.cabal
