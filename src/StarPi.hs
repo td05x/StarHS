@@ -1,7 +1,6 @@
 {-# LANGUAGE DataKinds #-}
 {-# LANGUAGE GADTs #-}
 {-# LANGUAGE KindSignatures #-}
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
 
 module StarPi where
 

@@ -1,7 +1,7 @@
 {-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-{-# OPTIONS_GHC -Wno-incomplete-uni-patterns #-}
-{- HLINT ignore "Replace case with fromMaybe" -}
 {- HLINT ignore "Redundant ==" -}
+{- HLINT ignore "Redundant if" -}
+{- HLINT ignore "Replace case with fromMaybe" -}
 module GameOfLife where
 import Star
 

@@ -1,8 +1,5 @@
 {-# LANGUAGE InstanceSigs #-}
-{-# LANGUAGE DataKinds #-}
 {-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-
-
 module Star where
 {- HLINT ignore "Use infix" -}
 {- HLINT ignore "Replace case with fromMaybe" -}

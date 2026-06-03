@@ -65,12 +65,14 @@ library
     -- other-modules:
 
     -- LANGUAGE extensions used by modules in this package.
-    -- other-extensions:
+    other-extensions:
+        DataKinds,
+        GADTs,
+        KindSignatures
 
     -- Other library packages from which modules are imported.
     build-depends:
         array,
-        list,
         base ^>=4.18.3.0
 
     -- Directories containing source files.
